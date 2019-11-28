@@ -1,0 +1,68 @@
+| Lvl 0 | Lvl 1 | Lvl 2 | Lvl 3 | Computer Science                                     	
+|-----|-----|-----|-----|------------------------------------------------------	
+| [ ] | [ ] | [ ] | [ ] | data structures                                      	
+| [ ] | [ ] | [ ] | [ ] | algorithms                                           	
+| [ ] | [ ] | [ ] | [ ] | systems programming                                  	
+
+| Lvl 0 | Lvl 1 | Lvl 2 | Lvl 3 | Software Engineering                                 	
+|-----|-----|-----|-----|------------------------------------------------------	
+| [ ] | [ ] | [ ] | [ ] | source code version control                          	
+| [ ] | [ ] | [ ] | [ ] | build automation                                     	
+| [ ] | [ ] | [ ] | [ ] | automated testing                                    	
+
+
+| Lvl 0 | Lvl 1 | Lvl 2 | Lvl 3 | Programming                                  
+|-----|-----|-----|-----|------------------------------------------------------
+| [ ] | [ ] | [ ] | [ ] | problem decomposition              
+| [ ] | [ ] | [ ] | [ ] | systems decomposition              
+| [ ] | [ ] | [ ] | [ ] | communication                      
+| [ ] | [ ] | [ ] | [ ] | code organization within a file    
+| [ ] | [ ] | [ ] | [ ] | code organization across files     
+| [ ] | [ ] | [ ] | [ ] | source tree organization           
+| [ ] | [ ] | [ ] | [ ] | code readability                   
+| [ ] | [ ] | [ ] | [ ] | defensive coding                   
+| [ ] | [ ] | [ ] | [ ] | error handling                     
+| [ ] | [ ] | [ ] | [ ] | IDE                                
+| [ ] | [ ] | [ ] | [ ] | API                                
+| [ ] | [ ] | [ ] | [ ] | frameworks                         
+| [ ] | [ ] | [ ] | [ ] | requirements                       
+| [ ] | [ ] | [ ] | [ ] | scripting                          
+| [ ] | [ ] | [ ] | [ ] | database                           
+
+| Lvl 0 | Lvl 1 | Lvl 2 | Lvl 3 | Experience                                    
+|-----|-----|-----|-----|-------------------------------------------------------
+| [ ] | [ ] | [ ] | [ ] | languages with professional experience
+| [ ] | [ ] | [ ] | [ ] | platforms with professional experience
+| [ ] | [ ] | [ ] | [ ] | years of professional experience
+| [ ] | [ ] | [ ] | [ ] | domain knowledge
+
+| Lvl 0 | Lvl 1 | Lvl 2 | Lvl 3 | Knowledge                                     
+|-----|-----|-----|-----|-------------------------------------------------------
+| [ ] | [ ] | [ ] | [ ] | tool knowledge
+| [ ] | [ ] | [ ] | [ ] | languages exposed to
+| [ ] | [ ] | [ ] | [ ] | codebase knowledge
+| [ ] | [ ] | [ ] | [ ] | knowledge of upcoming technologies
+| [ ] | [ ] | [ ] | [ ] | platform internals
+| [ ] | [ ] | [ ] | [ ] | books
+| [ ] | [ ] | [ ] | [ ] | blogs
+
+| Lvl 0 | Lvl 1 | Lvl 2 | Lvl 3 | Other                                         
+|-----|-----|-----|-----|-------------------------------------------------------
+| [ ] | [ ] | [ ] | [ ] | Tools (version control, continuous integration etc.)
+| [ ] | [ ] | [ ] | [ ] | Pair programming
+| [ ] | [ ] | [ ] | [ ] | TDD
+| [ ] | [ ] | [ ] | [ ] | Higher-level software testing
+| [ ] | [ ] | [ ] | [ ] | Software architecture
+| [ ] | [ ] | [ ] | [ ] | Documentation
+| [ ] | [ ] | [ ] | [ ] | Learning
+| [ ] | [ ] | [ ] | [ ] | Sharing knowledge
+| [ ] | [ ] | [ ] | [ ] | Critical Analysis
+| [ ] | [ ] | [ ] | [ ] | Choice of technology
+| [ ] | [ ] | [ ] | [ ] | Communication
+| [ ] | [ ] | [ ] | [ ] | Requirements Analysis
+| [ ] | [ ] | [ ] | [ ] | Teamwork
+| [ ] | [ ] | [ ] | [ ] | Business sense
+| [ ] | [ ] | [ ] | [ ] | Professional ethics
+
+
+Sources: http://competency-checklist.appspot.com/, http://sijinjoseph.com/programmer-competency-matrix/, SICPERS
